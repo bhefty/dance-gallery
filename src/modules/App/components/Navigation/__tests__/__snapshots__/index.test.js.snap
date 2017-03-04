@@ -1,0 +1,310 @@
+exports[`Navigation Navigation renders without crashing 1`] = `
+<nav
+  className="navbar navbar-default navbar-static-top">
+  <div
+    className="container">
+    <div
+      className="container">
+      <div
+        className="navbar-header">
+        <a
+          className="navbar-brand"
+          onClick={[Function]}
+          style={Object {}}>
+          The Dance Gallery
+        </a>
+        <button
+          className="navbar-toggle collapsed"
+          onClick={[Function]}
+          type="button">
+          <span
+            className="sr-only">
+            Toggle navigation
+          </span>
+          <span
+            className="icon-bar" />
+          <span
+            className="icon-bar" />
+          <span
+            className="icon-bar" />
+        </button>
+      </div>
+      <div
+        aria-expanded={null}
+        className="navbar-collapse collapse">
+        <ul
+          className="nav navbar-nav navbar-right"
+          role={null}>
+          <li
+            className=""
+            role="presentation"
+            style={undefined}>
+            <a
+              action="push"
+              href="#"
+              onClick={[Function]}
+              role="button">
+              Home
+            </a>
+          </li>
+          <li
+            className="dropdown"
+            style={undefined}>
+            <a
+              aria-expanded={false}
+              aria-haspopup={true}
+              className="dropdown-toggle"
+              href="#"
+              id="basic-nav-dropdown"
+              onClick={[Function]}
+              onKeyDown={[Function]}
+              role="button">
+              Schedule
+               
+              <span
+                className="caret" />
+            </a>
+            <ul
+              aria-labelledby="basic-nav-dropdown"
+              className="dropdown-menu"
+              role="menu">
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Productions
+                </a>
+              </li>
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Schedule 2016-17
+                </a>
+              </li>
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Parent\'s Observation Day
+                </a>
+              </li>
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Supplemental Classes
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li
+            className="dropdown"
+            style={undefined}>
+            <a
+              aria-expanded={false}
+              aria-haspopup={true}
+              className="dropdown-toggle"
+              href="#"
+              id="basic-nav-dropdown"
+              onClick={[Function]}
+              onKeyDown={[Function]}
+              role="button">
+              Companies
+               
+              <span
+                className="caret" />
+            </a>
+            <ul
+              aria-labelledby="basic-nav-dropdown"
+              className="dropdown-menu"
+              role="menu">
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Ballet Company
+                </a>
+              </li>
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Company Dance Gallery
+                </a>
+              </li>
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Darling Company
+                </a>
+              </li>
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Messengers
+                </a>
+              </li>
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Starlet Company
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li
+            className="dropdown"
+            style={undefined}>
+            <a
+              aria-expanded={false}
+              aria-haspopup={true}
+              className="dropdown-toggle"
+              href="#"
+              id="basic-nav-dropdown"
+              onClick={[Function]}
+              onKeyDown={[Function]}
+              role="button">
+              Learn More
+               
+              <span
+                className="caret" />
+            </a>
+            <ul
+              aria-labelledby="basic-nav-dropdown"
+              className="dropdown-menu"
+              role="menu">
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  About Us
+                </a>
+              </li>
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Dancer\'s Closet
+                </a>
+              </li>
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Blog
+                </a>
+              </li>
+              <li
+                className="divider"
+                onKeyDown={[Function]}
+                role="separator"
+                style={undefined} />
+              <li
+                className=""
+                role="presentation"
+                style={undefined}>
+                <a
+                  href="#"
+                  onClick={[Function]}
+                  onKeyDown={[Function]}
+                  role="menuitem"
+                  tabIndex="-1">
+                  Frequently Asked Questions
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li
+            className=""
+            role="presentation"
+            style={undefined}>
+            <a
+              action="push"
+              href="#"
+              onClick={[Function]}
+              role="button">
+              Contact Us
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+`;
