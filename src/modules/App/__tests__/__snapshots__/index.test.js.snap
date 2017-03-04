@@ -1,7 +1,7 @@
 exports[`App App renders without crashing 1`] = `
 <div>
   <nav
-    className="loktQy navbar navbar-default navbar-static-top">
+    className="chZsKL navbar navbar-default navbar-static-top">
     <div
       className="container">
       <div
@@ -308,21 +308,5 @@ exports[`App App renders without crashing 1`] = `
       </div>
     </div>
   </nav>
-  <img
-    alt="The Dance Gallery Building"
-    className="gpYIjS img-responsive"
-    src="building_banner.png" />
-  <div
-    className="fSQcmc">
-    <p>
-      Vivamus feugiat velit vitae odio sagittis pellentesque. Aliquam porta orci eu odio venenatis, non aliquam lectus pharetra. Quisque mi lacus, sollicitudin aliquam turpis ac, interdum euismod lorem. Etiam in consequat quam. Suspendisse potenti. Sed et dolor ut urna fermentum eleifend. Sed eget vulputate mauris, eget ultrices lacus. Nulla rutrum pretium commodo. Praesent auctor egestas mauris, quis iaculis nisl pulvinar sollicitudin. Pellentesque facilisis, magna vel interdum lobortis, quam ex laoreet arcu, sit amet vulputate arcu nulla in neque. Pellentesque ut purus ut lectus efficitur tincidunt vel ut urna. Vivamus tristique vehicula felis ut vehicula.
-    </p>
-    <p>
-      Vivamus feugiat velit vitae odio sagittis pellentesque. Aliquam porta orci eu odio venenatis, non aliquam lectus pharetra. Quisque mi lacus, sollicitudin aliquam turpis ac, interdum euismod lorem. Etiam in consequat quam. Suspendisse potenti. Sed et dolor ut urna fermentum eleifend. Sed eget vulputate mauris, eget ultrices lacus. Nulla rutrum pretium commodo. Praesent auctor egestas mauris, quis iaculis nisl pulvinar sollicitudin. Pellentesque facilisis, magna vel interdum lobortis, quam ex laoreet arcu, sit amet vulputate arcu nulla in neque. Pellentesque ut purus ut lectus efficitur tincidunt vel ut urna. Vivamus tristique vehicula felis ut vehicula.
-    </p>
-    <p>
-      Vivamus feugiat velit vitae odio sagittis pellentesque. Aliquam porta orci eu odio venenatis, non aliquam lectus pharetra. Quisque mi lacus, sollicitudin aliquam turpis ac, interdum euismod lorem. Etiam in consequat quam. Suspendisse potenti. Sed et dolor ut urna fermentum eleifend. Sed eget vulputate mauris, eget ultrices lacus. Nulla rutrum pretium commodo. Praesent auctor egestas mauris, quis iaculis nisl pulvinar sollicitudin. Pellentesque facilisis, magna vel interdum lobortis, quam ex laoreet arcu, sit amet vulputate arcu nulla in neque. Pellentesque ut purus ut lectus efficitur tincidunt vel ut urna. Vivamus tristique vehicula felis ut vehicula.
-    </p>
-  </div>
 </div>
 `;

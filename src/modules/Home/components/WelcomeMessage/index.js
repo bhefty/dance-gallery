@@ -1,0 +1,26 @@
+import React from 'react'
+
+const WelcomeMessage = (props) => {
+    return (
+        <div>
+            <h1>Welcome to the Dance Gallery!</h1>
+            <p>
+                Whether looking for a recreational dance experience or for more serious training, The Dance Gallery has much to offer. Our motto “where we have fun, taking dance seriously” allows students of all levels to be welcomed, nurtured and find great joy in making their dance dreams come true. Fantasy and playfulness for our younger students. Training and discipline for everyone who yearns to Dance!
+            </p>
+            <p>
+                Under the direction of owner Karla McNeill, faculty members are degreed in dance, education and counseling. Most have been on faculty for over a decade and are supported by assistant teachers to provide our low student/teacher ratio. The faculty is encouraging, loving and are experienced dancers and teachers.
+            </p>
+            <p>
+                All music, movements and costuming are age appropriate. From the studio, to the stage, to national events. Everyone performs their best at The Dance Gallery.
+            </p>
+            <p>
+                Classes are available for: Pre-school dance, ballet, pointe, tap, jazz, hip hop, contemporary and adult tap classes
+            </p>
+            <p>
+                For more information, view our <a href='http://www.thedancegallery.com/pdf/2016%20Dance%20Gallery%20Brochure.pdf' target='__blank'>Dance Gallery 2016 brochure</a>!
+            </p>
+        </div>        
+    )
+}
+
+export default WelcomeMessage
